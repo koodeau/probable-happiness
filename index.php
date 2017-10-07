@@ -15,6 +15,8 @@ function br()
 	echo $br;
 }
 
+
+
 // Page title
 echo $title;
 $names = array(
